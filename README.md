@@ -23,7 +23,9 @@ External function promptDescription() allows users to retrieve the prompt descri
 
 ## Commands
 npx hardhat run scripts/deploy.js --network goerli
+
 npx hardhat run scripts/batchMint.js --network goerli
+
 npx hardhat run scripts/approvedDeposit.js --network goerli
 
 ## License
